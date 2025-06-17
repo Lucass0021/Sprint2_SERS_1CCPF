@@ -28,7 +28,9 @@ As mensagens são exibidas no display LCD I2C.
 
 ## 🧪 Protótipo Simulado (Wokwi)
 
-![Circuito Wokwi](imagens/wokwi_screenshot.png)
+<p align="center">
+  <img src="imagens/wokwi_screenshot.png" alt="Circuito Wokwi" width="500"/>
+</p>
 
 🔗 [Acesse o protótipo no Wokwi](https://wokwi.com/projects/433929504230076417)
 
