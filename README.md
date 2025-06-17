@@ -70,8 +70,7 @@ As mensagens são exibidas no display LCD I2C.
 
 - Utilização real do ESP32 com sensores físicos (LDR, DS18B20, INA219).
 - Envio de dados reais via Wi-Fi para API (Java/Spring Boot).
-- Respostas dinâmicas baseadas em banco de dados.
-- Automação de cargas com relés e priorização de consumo.
+- Respostas dinâmicas baseadas em simulações reais.
 
 ---
 
