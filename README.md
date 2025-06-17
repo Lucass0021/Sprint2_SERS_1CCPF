@@ -1,4 +1,4 @@
-# Sistema de Diagnóstico Inteligente de Painéis Solares ☀️🔧
+# Sistema de Diagnóstico Inteligente de Painéis Solares ☀️
 
 Este projeto foi desenvolvido como parte da Sprint 2 da disciplina "Soluções em Energias Renováveis e Sustentáveis" (SERS) na FIAP. O objetivo é apresentar um protótipo funcional (simulado) de um sistema de monitoramento inteligente para eficiência de painéis solares, com integração a assistentes virtuais e automação.
 
