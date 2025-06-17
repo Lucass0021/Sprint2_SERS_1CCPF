@@ -59,7 +59,7 @@ As mensagens são exibidas no display LCD I2C.
   > Status: Dentro do esperado.”
 
 <p align="center">
-  <img src="ifttt/applet_ifttt_exemplo.png" alt="Applet IFTTT" width="400"/>
+  <img src="imagens/applet_ifttt_exemplo.png" alt="Applet IFTTT" width="400"/>
 </p>
 
 🔗 [Link do Applet no IFTTT](https://ift.tt/C5Ts0mn)
