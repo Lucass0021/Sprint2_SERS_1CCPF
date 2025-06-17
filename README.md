@@ -66,14 +66,6 @@ As mensagens são exibidas no display LCD I2C.
 
 ---
 
-## 🌐 Arquitetura da Solução
-
-<p align="center">
-  <img src="arquitetura.png" alt="Diagrama de Arquitetura" width="600"/>
-</p>
-
----
-
 ## 🚀 Próximos Passos (Protótipo Real)
 
 - Utilização real do ESP32 com sensores físicos (LDR, DS18B20, INA219).
